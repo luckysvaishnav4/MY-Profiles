@@ -1,0 +1,85 @@
+.nav-item>a{
+   color:blueviolet;
+    font-weight: 500;
+    font-family: initial;
+    font-size:19px;
+}
+.nav-item>a:hover{
+    color:black;
+}
+.navbar-brand{
+    color:red;
+    font-family:chiller;
+    font-size:26px;
+}
+
+#demo div
+{
+    padding:0px;
+}
+
+.btn{
+    font-family: initial;
+}
+/*.back123{
+background: rgba(255,255,255,0.50);
+-webkit-backdrop-filter: blur(1px);
+backdrop-filter: blur(100px);
+box-shadow: 1px 1px 7px 1px whitesmoke,inset 1px 1px 7px 1px lightyellow;
+border: 1px solid rgba(255,255,255,0.225);
+}*/
+.txt123{
+    text-shadow: 1px 1px 5px blueviolet;
+    color:black;
+    font-family: initial;
+}
+.carousel-inner img{
+    /*height:530px;
+    width: 100px;*/
+    background-size: cover;
+    background-attachment:fixed;
+}
+.line123{
+    border:2px solid red;
+    width:100px;
+    border-top-right-radius:20px;
+    border-top-left-radius:20px;
+    margin:auto;
+}
+.bs5 img{
+    height:250px;
+    width:200px;
+    border-top-left-radius:40px;
+    border-bottom-right-radius:40px;
+    border:2px solid red;
+    border-bottom:4px solid blue;
+    border-right:4px solid red;
+    border-top:4px solid blue;
+    border-left:4px solid red;
+    box-shadow:1px 1px 7px 1px grey,1px 1px 7px 1px lightgrey,1px 1px 7px 1px grey;
+}
+.txt11223 h6{
+    text-shadow: 0 8px rgb(0 0 0 / 5%);
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight:700;
+    color: red;
+        letter-spacing: 3px;
+    text-shadow: 2px 7px 5px rgba(0,0,0,0.3), 
+    0px -4px 10px rgba(255,255,255,0.3);
+}
+.bs6 img{
+    height:100%;
+    width:100%;
+}
+.bs7 img{
+    height:160px;
+    width:100%;
+}
+.border1 img{
+    height:10px;
+}
+.fasfa1{
+    color:red;
+    font-size:18px;
+    transition: scale 2s ease-in-out;
+}
